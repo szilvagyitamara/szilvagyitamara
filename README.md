@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @szilvagyitamara
 - 👀 I’m interested in handball.
 - 🌱 I’m currently learning to program
-- 💞️ I’m looking for cooperation for a joint fair.
 - 📫 How to reach me:📧szilvagyitamara@gmail.com or phone: 06202147603
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i always forgive whatever the person did.
