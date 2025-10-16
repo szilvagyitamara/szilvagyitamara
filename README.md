@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @szilvagyitamara
 - 👀 I’m interested in handball.
 - 🌱 I’m currently learning to program
-- 📫 How to reach me:📧szilvagyitamara@gmail.com or phone: 06202147603
+- 📫 How to reach me:📧szilvagyitamara@gmail.com or phone: 06 20 214 7603
 - 😄 Pronouns: ...
 - ⚡ Fun fact:I like listening to music, especially Korean, English, Thai or Chinese music.
               I love K-pop.
