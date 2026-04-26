@@ -59,6 +59,7 @@ Szeretem a tiszta, átlátható rendszereket, a logikus problémamegoldást,
 ![Streak](https://streak-stats.demolab.com?user=szilvagyitamara&theme=tokyonight&hide_border=true&border_radius=10)
 
 
+![Snake animation](https://raw.githubusercontent.com/szilvagyitamara/szilvagyitamara/output/snake.svg)
 
 
 
