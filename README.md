@@ -10,7 +10,7 @@ Szeretem a tiszta, átlátható rendszereket, a logikus problémamegoldást,
 
 ---
 
-## 🔧 Technológiák
+##  Technológiák
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -22,7 +22,7 @@ Szeretem a tiszta, átlátható rendszereket, a logikus problémamegoldást,
 
 ---
 
-## 🚀 C# Projektek
+##  C# Projektek
 
 | Projekt | Leírás | Fókusz | Stack | Állapot |
 |--------|--------|--------|--------|---------|
@@ -33,7 +33,7 @@ Szeretem a tiszta, átlátható rendszereket, a logikus problémamegoldást,
 
 ---
 
-## 🌐 JavaScript HTML Projektek
+##  JavaScript HTML Projektek
 
 | Projekt | Leírás | Fókusz | Stack | Állapot |
 |--------|--------|--------|--------|---------|
@@ -45,7 +45,7 @@ Szeretem a tiszta, átlátható rendszereket, a logikus problémamegoldást,
 
 ---
 
-## 🧩 Rólam röviden
+##  Rólam röviden
 
 - Informatikát tanulok, és egyre jobban vonz a **backend fejlesztés**.  
 - Szeretem a tiszta, logikus rendszereket és a jól felépített architektúrát.  
