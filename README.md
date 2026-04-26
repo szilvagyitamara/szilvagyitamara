@@ -43,14 +43,26 @@ Szeretem a tiszta, átlátható rendszereket, a logikus problémamegoldást,
 ---
 
 
----
-
 ##  Rólam röviden
 
 - Informatikát tanulok, és egyre jobban vonz a **backend fejlesztés**.  
 - Szeretem a tiszta, logikus rendszereket és a jól felépített architektúrát.  
 - Célom, hogy egyre profibb projekteket építsek, és később akár külföldön is dolgozzak.  
 - Hiszek abban, hogy a fejlődés apró, következetes lépésekből áll.
+
+---
+
+![Stats](https://ghstats.dev/api/card?username=szilvagyitamara&theme=tokyonight&border_radius=10&scale=0.9)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szilvagyitamara&layout=compact&theme=tokyonight&border_radius=10&card_width=300)
+
+![Streak](https://streak-stats.demolab.com?user=szilvagyitamara&theme=tokyonight&hide_border=true&border_radius=10)
+
+
+
+
+
+
 
 
 
