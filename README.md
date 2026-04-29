@@ -27,7 +27,7 @@ Szeretem a tiszta, átlátható rendszereket, a logikus problémamegoldást,
 | Projekt | Leírás | Fókusz | Stack | Állapot |
 |--------|--------|--------|--------|---------|
 | **Try-Catch és switch-case** | Feladatkezelő rendszer időzítéssel |  hibakezelés | C#, .NET | 🟢 Kész |
-| **Stringkezelés** | Egyszerű bejelentkezési API JWT-vel | szövegfeldolgozás | C#, .NET  | 🟡 Fejlesztés alatt |
+| **Stringkezelés** | Monogram kiiratás | szövegfeldolgozás | C#, .NET  | 🟢 Kész  |
 | **Struktúrák** |A C#-os struktúrák működése és használata | Adatszerkezetek létrehozása, Gyors, könnyű adattárolás struktúrákkal|C#,.NET| 🟡 Fejlesztés alatt |
 | **Fájlkezelés** | Fájlrendszer figyelő szolgáltatás | Fájlolvasás/írás, útvonalkezelés | C#, .NET | 🔵 Tervezés |
 
