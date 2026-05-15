@@ -54,9 +54,6 @@ Szeretem a tiszta, átlátható rendszereket, a logikus problémamegoldást,
 
 ![Stats](https://ghstats.dev/api/card?username=szilvagyitamara&theme=tokyonight&border_radius=10&scale=0.9)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=szilvagyitamara&layout=compact&theme=tokyonight)
-
-
 ![Streak](https://streak-stats.demolab.com?user=szilvagyitamara&theme=tokyonight&hide_border=true&border_radius=10)
 
 ![Snake animation](https://raw.githubusercontent.com/szilvagyitamara/szilvagyitamara/output/snake.svg)
