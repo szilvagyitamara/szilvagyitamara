@@ -39,7 +39,7 @@ Szeretem a tiszta, átlátható rendszereket, a logikus problémamegoldást,
 |--------|--------|--------|--------|---------|
 | **Pacman-SKZ143** | Egy Pac‑Man stílusú mini játék Stray Kids témával, ahol a mozgás, ütközéskezelés és játéklogika volt a fő fókusz. | Karaktervezérlés, Ütközésdetektálás és Játéklogika | JavaScript, .CSS, HTML | 🟢 Demó |
 | **Pacman-SKZ143-folytatása** | Több játékkal animációval| Animációk,Játéklogika|JavaScript, .CSS, HTML  | 🔵 Tervezés |
-
+| **Részecske Szöveg Animáció** | Interaktív részecske‑szöveg animáció, ahol a betűk több száz mozgó pontból állnak össze, és a kurzor hatására szétszélednek. | részecskék, szöveg‑animáció, interakció, egérkövetés, széthullás, visszarendeződés | HTML, CSS, JavaScript, Canvas API |  🟢 Kész |
 ---
 
 
