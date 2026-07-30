@@ -37,8 +37,10 @@ Szeretem a tiszta, átlátható rendszereket, a logikus problémamegoldást,
 
 | Projekt | Leírás | Fókusz | Stack | Állapot |
 |--------|--------|--------|--------|---------|
-| **Pacman-SKZ143** | Egy Pac‑Man stílusú mini játék Stray Kids témával, ahol a mozgás, ütközéskezelés és játéklogika volt a fő fókusz. | Karaktervezérlés, Ütközésdetektálás és Játéklogika | JavaScript, .CSS, HTML | 🟢 Demó |
-| **Pacman-SKZ143-folytatása** | Több játékkal animációval| Animációk,Játéklogika|JavaScript, .CSS, HTML  | 🔵 Tervezés |
+| **Keresősáv használata**| Ez a weboldal egy egyszerű, valós időben kereshető terméklista. A felhasználó gépelés közben azonnal látja a szűrt találatokat. | Valós idejű termékkeresés | JavaScript, .CSS, HTML | 🟢 Kész |
+| **Webáruház – Kosárba helyezés – Törlés a kosárból** | Ez a projekt egy egyszerű kosár‑rendszer, ahol a felhasználó termékeket adhat a kosárhoz, törölhet, és valós időben látja a végösszeget. | hozzáadás, törlés és automatikus összegszámítás. |JavaScript, .CSS, HTML  | 🟢 Kész |
+| **E-kereskedelmi weboldal termékoldalának tervezése**| Ez a projekt egy modern, piros‑fehér dizájnú termékoldal, ahol a felhasználó kategóriák, kereső és kosár ikon segítségével böngészheti a termékeket. | letisztult termékmegjelenítés |JavaScript, .CSS, HTML|🟢 Kész |
+|**Bejelentkezés / Regisztráció**|Ez a projekt egy modern, kétpaneles bejelentkezési‑regisztrációs felület, ahol gombnyomásra vált a két nézet között.|zökkenőmentes nézetváltás|JavaScript, .CSS, HTML|🟢 Kész|
 | **Részecske Szöveg Animáció** | Interaktív részecske‑szöveg animáció, ahol a betűk több száz mozgó pontból állnak össze, és a kurzor hatására szétszélednek. | részecskék, szöveg‑animáció, interakció, egérkövetés, széthullás, visszarendeződés | HTML, CSS, JavaScript, Canvas API |  🟢 Kész |
 ---
 
