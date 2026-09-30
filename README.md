@@ -4,11 +4,9 @@
 # TAMARA Sz.  
 **Informatika hallgató • Backend & Frontend fókusz  • C# & JavaScript**
 
-Ambiciózus fejlesztő vagyok, aki lépésről lépésre építi fel a saját tech‑útját.  
-Szeretem a tiszta, átlátható rendszereket, a logikus problémamegoldást,  
-és azt az érzést, amikor egy projekt végre működni kezd.
 
----
+
+
 
 ##  Technológiák
 
